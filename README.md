@@ -8,7 +8,7 @@ Compete against other players in this real-time space battle game. Set up as a S
 ---
 
 
-1. Extract to /sbbs/conquest
+1. Extract to /sbbs/doors/conquest
 2. Run scfg and set it up as the above image
 
 You should be good to go!
